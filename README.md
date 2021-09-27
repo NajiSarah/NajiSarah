@@ -1,11 +1,10 @@
-### Hi there 👋
+I create websites to help students, especially language learners
+who live abroad
 
-<!--
-**NajiSarah/NajiSarah** We are special because we will guide you in the right way to learn any language in the shortest time
+If you want to learn Dutch in the shortest time, welcome to my page https://sarahnaji.netlify.app/
 
-##### I am currently working on a project to help students, especially language learners, to learn in the simplest ways
+I am working on suggesting links to useful educational sites and video links
 
-####### I create web pages, suggest useful educational sites and useful video links
+I went through a difficult experience to learn the Dutch language, due to the poor educational resources on the Internet, compared to English or French websites.So I created a page that shortens your effort by collecting the resources you need to learn a new language
 
-######### I learned Dutch and
-During my learning, I suffered from poor online resources, so I worked on creating web pages that guide students, especially Dutch learners.
+Currently, I am working on pages to help learners of Dutch and Arabic, and in the future there will certainly be other languages
