@@ -1,10 +1,5 @@
-I create websites to help students, especially language learners
-who live abroad
-
-If you want to learn Dutch in the shortest time, welcome to my page https://sarahnaji.netlify.app/
-
-I am working on suggesting links of useful educational sites and video links
-
-I went through a difficult experience to learn the Dutch language, due to the poor educational resources on the Internet, compared to English or French websites.So I created a page that shortens your effort by collecting the resources you need to learn a new language
-
-Currently, I am working on pages to help learners of Dutch and Arabic, and in the future there will certainly be other languages
+I want to help you learn a new language as soon as possible
+If you want to learn Dutch, then you are in the right place
+Here you will find links to the best websites on the Internet for learning Dutch
+You will find suggestions for programs to help you learn faster
+I suffered like you when learning Dutch from the lack of resources on the Internet
