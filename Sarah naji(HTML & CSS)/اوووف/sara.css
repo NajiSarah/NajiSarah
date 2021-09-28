@@ -1,0 +1,150 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8;
+    margin: 8;
+    background-color: rgb(212, 141, 157);
+    direction:rtl;
+    }
+    .container
+    {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    header{
+        background: #97752a;
+        color: azure;
+        padding-top: 30px;
+        min-height: 70px;
+        border-bottom: rgb(228, 193, 207);
+    }
+    header a {
+        color: rgb(238, 153, 186);
+        text-decoration: none;
+        font-size: 20px;
+    }
+header li {
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+
+}
+header brand{
+    float: right;
+}
+header #brand h1{
+    margin: 0;
+    color: rgb(245, 209, 231);
+}
+header nav{
+    float: left;
+    margin-top: 10px;
+
+}
+header .current a {
+    color: rebeccapurple;
+    font-weight: bold;
+
+}
+header a:hover
+{
+    color: rgb(33, 139, 19);
+    font-weight: bold;
+}
+#showcase
+{
+    min-height: 400px;
+    background: url("../imges/4020.jpg") no-repeat center;
+    background-size: cover;
+
+
+}
+#newsletter
+{
+    padding: 15px;
+    color: rgb(179, 151, 92);
+    background: rgb(173, 108, 133);
+}
+#newsletter h1{
+    float: right;
+}
+#newsletter form
+{
+
+    float: left;
+    margin-top: 16px;
+}
+3newsletter input[type="email"]
+{
+    padding: 4px;
+    height: 26px;
+    width: 250px;
+
+}
+.button
+{
+    height: 40px;
+    background: lightcoral;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: lightcoral;
+    
+}
+#boxes
+{
+    margin-top: 20px;
+
+}
+#boxes .box
+{
+float: right;
+text-align:center ;
+width: 33%;
+padding: 10%;
+
+}
+footer
+{
+    padding: 20px;
+    margin-top: 20px;
+    color: lightcyan;
+    background: lightpink;
+    text-align: center;
+    font-size: 20px;
+
+}
+@media (max-width:768px) 
+{
+    header #brand,
+    header nav,
+    header nav li,
+    #newsletter h1,
+ #newsletter form,
+#boxes .box
+{
+    floar:none;
+    text-align: center;
+    width: 100%;
+
+}
+header
+{
+    padding-bottom: 20px;
+
+}
+#newsletter .button{
+    display: block;
+width: 100%;
+}
+#newsletter form input[type="email"]
+{
+    width: 100%;
+    margin-bottom: 5px;
+    
+}
+}
